@@ -26,12 +26,10 @@
   </div>
   
 <!-- Tech Stack -->
-<br>
 <div align="center">
-  <h3> Tech Stack: </h3>
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!--Línea-->
-  
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!--Línea-->
+<h3 width="20%"> Tech Stack: </h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,bootstrap,laravel,mysql,vscode,git,github,markdown">
 </div>
 
