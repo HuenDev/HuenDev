@@ -30,7 +30,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!--Línea-->
 <h3 width="20%"> Tech Stack: </h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,php,bootstrap,laravel,mysql,vscode,git,github,markdown">
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,php,bootstrap,mysql,vscode,git,github">
 </div>
 
 
